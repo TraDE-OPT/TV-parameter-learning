@@ -34,7 +34,7 @@ Please make sure to have the following Python modules installed, most of which s
 ## Acknowledgments  
 
 * | ![](<euflag.png>) | K.B. and E.C. have received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 861137. |
-|----------|----------|
+  |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 * Training and test datasets have been downloaded from [Pixabay](https://pixabay.com/) with permission and are available on [Zenodo](https://doi.org/10.5281/zenodo.7267054).
   
 ## License  
