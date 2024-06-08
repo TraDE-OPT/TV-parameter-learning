@@ -11,12 +11,14 @@ python3 main.py
 
 If you find this code useful, please cite the above-mentioned paper:
 ```BibTeX
-@article{bch2022,
-  author = {Bredies, Kristian and Chenchene, Enis and Hosseini, Alireza},
-  title = {A hybrid proximal generalized conditional gradient method and application to total variation parameter learning},
-  pages = {2211.00997},
-  journal = {ArXiv},
-  year = {2022}
+@INPROCEEDINGS{chb23,
+  author={Chenchene, Enis and Hosseini, Alireza and Bredies, Kristian},
+  booktitle={2023 European Control Conference (ECC)}, 
+  title={A hybrid proximal generalized conditional gradient method and application to total variation parameter learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1--6}
 }
 ```
 
